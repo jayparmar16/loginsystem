@@ -1,2 +1,3 @@
 # loginsystem
-Login System using python 3 and sqlite3
+GUI Login System using python 3, sqlite3 and tkinter
+
